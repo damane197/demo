@@ -28,5 +28,10 @@ class Usuarios
      * @ORM\Column(type="string", length=100)
      */
     public $name;
+    
+     /**
+     * @ORM\Column(type="string", length=100)
+     */
+    public $apellido;
 
 }
