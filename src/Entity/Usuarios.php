@@ -39,4 +39,9 @@ class Usuarios
      */
     public $edad;
 
+    /**
+     * @ORM\Column(type="integer")
+     */
+    public $altura;
+
 }
