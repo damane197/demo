@@ -34,4 +34,9 @@ class Usuarios
      */
     public $apellido;
 
+    /**
+     * @ORM\Column(type="integer")
+     */
+    public $edad;
+
 }
