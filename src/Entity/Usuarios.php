@@ -42,6 +42,6 @@ class Usuarios
     /**
      * @ORM\Column(type="integer")
      */
-    public $altura;
+    public $altur;
 
 }
