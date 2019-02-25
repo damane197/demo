@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="956de769-43f5-4217-9484-d818ab64613b" name="Default Changelist" comment="&quot;Cambios&#10;&quot;">
-      <change afterPath="$PROJECT_DIR$/src/Entity/Product.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Entity/Usuarios.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/bundles.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/bundles.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/services.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/services.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/symfony.lock" beforeDir="false" afterPath="$PROJECT_DIR$/symfony.lock" afterDir="false" />
-    </list>
+    <list default="true" id="956de769-43f5-4217-9484-d818ab64613b" name="Default Changelist" comment="&quot;Cambios&#10;&quot;" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +35,7 @@
         <entry file="file://$PROJECT_DIR$/src/Entity/Usuarios.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="390">
-              <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+              <caret line="31" column="1" selection-start-line="31" selection-end-line="31" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -147,7 +137,7 @@
     <option name="x" value="990" />
     <option name="y" value="25" />
     <option name="width" value="930" />
-    <option name="height" value="1055" />
+    <option name="height" value="1053" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -176,12 +166,6 @@
               <item name="demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="demo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Controller" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="demo" type="b2602c69:ProjectViewProjectNode" />
@@ -224,16 +208,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1551097028879</updated>
-      <workItem from="1551097030020" duration="2530000" />
+      <workItem from="1551097030020" duration="2754000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2530000" />
+    <option name="totallyTimeSpent" value="2754000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="990" y="25" width="930" height="1055" extended-state="4" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24886878" />
@@ -291,7 +274,7 @@
     <entry file="file://$PROJECT_DIR$/src/Entity/Usuarios.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
-          <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+          <caret line="31" column="1" selection-start-line="31" selection-end-line="31" selection-end-column="1" />
         </state>
       </provider>
     </entry>
